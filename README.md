@@ -1,14 +1,13 @@
 # pal-core
 
-A Clojure library designed to ... well, that part is up to you.
+[![CircleCI](https://circleci.com/gh/leppert/pal-core.svg?style=svg)](https://circleci.com/gh/leppert/pal-core)
+
+A ClojureScript port of [_buddy-core_](https://github.com/funcool/buddy-core).
 
 ## Usage
 
-FIXME
+See [_buddy-core_](https://github.com/funcool/buddy-core) for usage.
 
-## License
+## Status
 
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Incomplete.
