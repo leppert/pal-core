@@ -1,4 +1,4 @@
-(defproject pal/pal-core "0.1.0-SNAPSHOT"
+(defproject pal/pal-core "0.1.0-SNAPSHOT2"
   :description "A ClojureScript port of buddy-core"
   :url "https://github.com/leppert/pal-core"
   :license {:name "Eclipse Public License"
